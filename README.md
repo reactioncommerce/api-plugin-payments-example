@@ -1,3 +1,8 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-payments-example)
+
+
 # api-plugin-payments-example
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-payments-example.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-payments-example)
